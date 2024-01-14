@@ -1,4 +1,4 @@
 # First-Demo
 This is my First Git Repository.
 <br>
-Author - Kartik Kumar
+Author - Kartik Kumar (yashraj)
